@@ -5,17 +5,17 @@ Algorithm: single-link, complete-link, average, and Ward
 |File|Describtion|
 |---|---|
 |taipei_pca_hierarchical_text.ipynb|先降維後分群分群-臺北市|
+|taipei_textcluster_plot.ipynb|分群結果散佈圖(PCA & MDS)-臺北市|
 |newtaipei_pca_hierarchical_text.ipynb|先降維後分群分群-新北市|
-
-
+|newtaipei_textcluster_plot.ipynb|分群結果散佈圖(PCA & MDS)-新北市|
 
 ## Reduce Dimensions with PCA before Clustering
 Algorithm: complete-link, average, and Ward
 |File|Describtion|
 |---|---|
-|pca_hierarchical_clustering_text.ipynb**|先降維後分群<br/>由於筆數過大，無法使用 single-link|
-|pca_text_cluster_visualize.ipynb**|有降維的分群結果散佈圖(PCA)|
-|pca_word_cloud_text.ipynb**|各群特徵文字雲|
+|pca_hierarchical_clustering_text.ipynb|先降維後分群<br/>由於筆數過大，無法使用 single-link|
+|pca_text_cluster_visualize.ipynb|有降維的分群結果散佈圖(PCA)|
+|pca_word_cloud_text.ipynb|各群特徵文字雲|
 
 ## Reduce to  Two Dimensions with PCA before Clustering (not suggested)
 |File|Describtion|
