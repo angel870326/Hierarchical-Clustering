@@ -4,6 +4,7 @@
 Algorithm: single-link, complete-link, average, and Ward
 * No PCA
 * word cloud with mask
+
 |File|Describtion|
 |---|---|
 |**taipei_hierarchical_text.ipynb**|分群-臺北市|
