@@ -1,13 +1,15 @@
 # Hierarchical-Clustering
 
-## Reduce Dimensions with PCA before Clustering for Taipei
+## Clustering for Taipei and New Taipei City
 Algorithm: single-link, complete-link, average, and Ward
 |File|Describtion|
 |---|---|
-|taipei_pca_hierarchical_text.ipynb|先降維後分群分群-臺北市|
+|taipei_hierarchical_text.ipynb|分群-臺北市|
 |taipei_textcluster_plot.ipynb|分群結果散佈圖(PCA & MDS)-臺北市|
-|newtaipei_pca_hierarchical_text.ipynb|先降維後分群分群-新北市|
+|taipei_wordcloud_text.ipynb|計算群特徵權重+文字雲-臺北市|
+|newtaipei_hierarchical_text.ipynb|先降維後分群分群-新北市|
 |newtaipei_textcluster_plot.ipynb|分群結果散佈圖(PCA & MDS)-新北市|
+|newtaipei_wordcloud_text.ipynb|計算群特徵權重+文字雲-新北市|
 
 ## Reduce Dimensions with PCA before Clustering
 Algorithm: complete-link, average, and Ward
